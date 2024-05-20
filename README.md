@@ -1,7 +1,7 @@
 # Canny Edge Detection using Python
 ## i)Implementation of the Canny edge detection algorithm on a sample image to obtain the edges.
-## Developed By :T MOUNISH
-## Register Number : 212223240098
+## Developed By :B.venkata bharadwaj
+## Register Number : 212222240020
 ## Code :
 ```
 import cv2
